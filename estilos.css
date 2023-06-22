@@ -6,3 +6,8 @@
 body{
     background-color: aqua;
 }
+
+h1{
+    color: yellow;
+    text-decoration: double;
+}
